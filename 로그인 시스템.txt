@@ -1,0 +1,5 @@
+1.XAMPP 설치
+2.multi_login DB생성
+(php My Admin 이용)
+3.users Table 생성
+4,htdocs 폴더 아래에 login 폴더생성
